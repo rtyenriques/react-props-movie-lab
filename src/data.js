@@ -1,3 +1,5 @@
+import MovieShowcase from "./MovieShowcase"
+
 const movieData = [
   {
     title: 'Choux and Maru go to Istanbul',
@@ -55,5 +57,7 @@ const movieData = [
     poster: 'the-trash-man'
   },
 ]
+
+
 
 export default movieData
